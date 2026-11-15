@@ -1,0 +1,10 @@
+# Python & UV virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# Local SQLite databases and instance folders
+instance/
+*.db
+*.sqlite
+*.sqlite3
